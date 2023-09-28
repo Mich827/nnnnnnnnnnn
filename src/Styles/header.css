@@ -1,0 +1,5 @@
+.containerHeader{
+	display: flex;
+	justify-content: space-around;
+	background-color:blanchedalmond;
+}
